@@ -1,1 +1,15 @@
+> 进入数据库
 
+mysql -u root -p
+
+xxxxxx
+
+show database
+
+use database xxx 
+
+
+
+> 导入sql文件
+
+source sql文件url
